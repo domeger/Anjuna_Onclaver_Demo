@@ -1,0 +1,9 @@
+environment:
+- PROFILE=anjuna
+- NAMESPACE=anjunamespace
+- BCI_URL=https://bci.prd.onclave.net/v1.0
+- OWNER_ID=f48c8d6d-ec65-4d66-8147-ed63bf14d222
+- PUBLIC_INTERFACE_NAME=ens192
+- USE_TPM_SIMULATOR=false
+- WATCHDOG_INTERVAL_MILLIS=60000
+- WATCHDOG_PING_TIMEOUT_SECONDS=20
